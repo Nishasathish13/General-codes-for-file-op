@@ -10,7 +10,7 @@
 3. Navigate to the directory which has your .py file
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/75114179/159913551-3c8a0bd6-5a86-431e-a2a7-a6642c5d4847.png">
 
-4. Type Dir to view all the files under your current folder
+4. Type dir to view all the files under your current folder
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/75114179/159913758-e5b2a2ba-db83-4d5d-8bd2-05761ea6acce.png">
 
 In the above image the file "MNIST_end_tsai_trail.py" needs to be converted to .ipynb
